@@ -25,6 +25,8 @@
 #define 🖨 std::cout
 #define 👉 begin
 #define 👈 end
+#define ⏪ <<
+#define ⏩ >>
 
 #ifdef BUILD_TEST
 // example
