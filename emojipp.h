@@ -33,11 +33,11 @@
 🏠(int argc, char** argv) {
     🏎 res = 0;
     🙏 {
-        🖨 << "Hello world!" << std::endl;
+        🖨 ⏪ "Hello world!" ⏪ std::endl;
         🖕 "oops";
     }
     🙈 {
-        🖨 << "Exception caught!" << std::endl;
+        🖨 ⏪ "Exception caught!" ⏪ std::endl;
     }
     ↩️ res;
 }
